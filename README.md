@@ -1,5 +1,6 @@
 # Olá!!👋, Sou o Artur
-<br>Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 2º semestre. Pretende implemntar todo o meu aprendizado </br>
+
+Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 2º semestre. Pretende implemntar todo o meu aprendizado 
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ArturNunes-cmd&show_icons=true&theme=blue_navy">
