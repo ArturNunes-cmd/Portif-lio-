@@ -1,4 +1,4 @@
-# Olá!!, Sou o Artur
+# Olá!!👋, Sou o Artur
 <br>Faço Ciencia da computação, atualmente estou estudando na UDF em Brasilia no 2º semestre. Pretende implemntar todo o meu aprendizado </br>
 
 <div>
